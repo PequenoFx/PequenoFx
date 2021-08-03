@@ -7,6 +7,10 @@
 
 - 🌱 Atualmente estudando **bootstrap, jQuery, JavaScript**
 
+- 🦅 Diferencial **Não sei desistir**
+
+- 👨‍💻 Motivação **Viver de um sonho, conquistar o inconquistável**
+
 - 📝Procurando por **Evolução**
 
 - ⚡ Passa tempo **Programar**
