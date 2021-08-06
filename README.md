@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pequenofx&label=Profile%20views&color=290099&style=flat" alt="pequenofx" /> </p>
 
-- 🔭 Ultimo projeto [landing_page_quebrada016](meu_link)
+- 🔭 Ultimo projeto [landing_page_quebrada016](https://github.com/PequenoFx/landing_page_planos)
 
 - 🌱 Atualmente estudando **bootstrap, jQuery, JavaScript**
 
