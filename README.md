@@ -5,7 +5,7 @@
 
 - 🔭 Ultimo projeto [landing_page_planos](https://github.com/PequenoFx/landing_page_planos)
 
-- 🌱 Atualmente estudando **bootstrap, jQuery, JavaScript**
+- 🌱 Atualmente estudando **bootstrap, materializer, jQuery, JavaScript**
 
 - 🦅 Diferencial **Não sei desistir**
 
