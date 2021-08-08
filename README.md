@@ -7,7 +7,7 @@
 
 - 🌱 Atualmente estudando **bootstrap, materializer, jQuery, JavaScript**
 
-- 🦅 Diferencial **Não sei desistir**
+- 🦅 Diferencial **Desistir não é opção**
 
 - 👨‍💻 Motivação **Viver de um sonho, conquistar o inconquistável**
 
