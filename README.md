@@ -9,7 +9,7 @@
 
 - 🦅 Diferencial **Desistir não é opção**
 
-- 👨‍💻 Motivação **Viver de um sonho, conquistar o inconquistável**
+- 👨‍💻 Motivação **Viver de um sonho, conquistar o inconquistável..**
 
 - 📝Procurando por **Evolução**
 
