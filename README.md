@@ -9,7 +9,7 @@
 
 - 🦅 Diferencial **Desistir não é opção**
 
-- 👨‍💻 Motivação **Conhecimento nunca é de mais!!**
+- 👨‍💻 Motivação **Conhecimento nunca é de mais!**
 
 - 📝Procurando por **Evolução**
 
