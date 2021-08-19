@@ -5,8 +5,12 @@
 
 - 🔭 Ultimo projeto [ToDo List Angular JS](https://pequenofx.github.io/TodoListAngularJS/)
 
-- 💻 Todos os projetos:
-- 1
+- 💻 Todos os projetos: 
+http://landing-page-quebrada016.vercel.app/
+https://pequenofx.github.io/landing_page_bootstrap/
+https://pequenofx.github.io/landing_page_materializer/
+https://pequenofx.github.io/landing_page_planos/
+https://pequenofx.github.io/TodoListAngularJS/
 
 - 🌱 Atualmente estudando **bootstrap, materializer, jQuery, JavaScript**
 
