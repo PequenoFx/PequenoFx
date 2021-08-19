@@ -5,6 +5,9 @@
 
 - 🔭 Ultimo projeto [ToDo List Angular JS](https://pequenofx.github.io/TodoListAngularJS/)
 
+- 💻 Todos os projetos:
+- 1
+
 - 🌱 Atualmente estudando **bootstrap, materializer, jQuery, JavaScript**
 
 - 🦅 Diferencial **Desistir não é opção**
