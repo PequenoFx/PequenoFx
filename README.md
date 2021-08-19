@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pequenofx&label=Profile%20views&color=290099&style=flat" alt="pequenofx" /> </p>
 
-- 🔭 Ultimo projeto [ToDo List Angular JS](https://github.com/PequenoFx/TodoListAngularJS)
+- 🔭 Ultimo projeto [ToDo List Angular JS](https://pequenofx.github.io/TodoListAngularJS/)
 
 - 🌱 Atualmente estudando **bootstrap, materializer, jQuery, JavaScript**
 
