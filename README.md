@@ -6,7 +6,7 @@
 - 🔭 Ultimo projeto [ToDo List Angular JS](https://pequenofx.github.io/TodoListAngularJS/)
 
 - 💻 Todos os projetos: <br>
-<br>
+https://pequenofx.github.io/landing_page_quebrada016/<br>
 https://pequenofx.github.io/landing_page_bootstrap/<br>
 https://pequenofx.github.io/landing_page_materializer/<br>
 https://pequenofx.github.io/landing_page_planos/<br>
