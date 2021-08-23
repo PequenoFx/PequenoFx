@@ -37,4 +37,4 @@ https://pequenofx.github.io/TodoListAngularJS/<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pequenofx&show_icons=true&theme=tokyonight&title_color=0e0042&text_color=391e99&bg_color=c3b3ff&locale=en" alt="pequenofx" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pequenofx&theme=dark" alt="pequenofx" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pequenofx&theme=dark" alt="pequenofx" /></p> 
