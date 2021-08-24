@@ -18,7 +18,7 @@ https://pequenofx.github.io/TodoListAngularJS/<br>
 
 - 👨‍💻 Motivação **Conhecimento nunca é de mais!**
 
-- 📝Estudando **ReactJS**
+- 📝Estudando **Desenvolvimento Fron-end**
 
 - ⚡ Passa tempo **Programar**
 
